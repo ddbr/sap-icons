@@ -1,0 +1,8 @@
+/* SAP Icons */
+@font-face {
+  font-family: 'SAP Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://sapui5.hana.ondemand.com/1.60.39/resources/sap/ui/core/themes/base/fonts/SAP-icons.ttf') format('truetype');
+}
