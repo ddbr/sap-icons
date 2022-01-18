@@ -1,0 +1,8 @@
+/* SAP Icons */
+@font-face {
+  font-family: 'SAP Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://raw.githubusercontent.com/ddbr/sap-icons/main/SAP-icons.ttf') format('truetype');
+}
